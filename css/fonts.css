@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Optima-Regular';
+  src: url('../fonts/Optima-Regular.eot');
+  src: url('../fonts/Optima-Regular.woff2') format('woff2'),
+       url('../fonts/Optima-Regular.woff') format('woff'),
+       url('../fonts/Optima-Regular.ttf') format('truetype'),
+       url('../fonts/Optima-Regular.svg#Optima-Regular') format('svg'),
+       url('../fonts/Optima-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Optima-Bold'; 
+  src: url('../fonts/Optima-Bold.eot');
+  src: url('../fonts/Optima-Bold.woff2') format('woff2'),
+       url('../fonts/Optima-Bold.woff') format('woff'),
+       url('../fonts/Optima-Bold.ttf') format('truetype'),
+       url('../fonts/Optima-Bold.svg#Optima-Bold') format('svg'),
+       url('../fonts/Optima-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica-Bold';
+  src: url('../fonts/Helvetica-Bold.eot');
+  src: url('../fonts/Helvetica-Bold.woff2') format('woff2'),
+       url('../fonts/Helvetica-Bold.woff') format('woff'),
+       url('../fonts/Helvetica-Bold.ttf') format('truetype'),
+       url('../fonts/Helvetica-Bold.svg#Helvetica-Bold') format('svg'),
+       url('../fonts/Helvetica-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaLTStdLight';
+    src: url('../fonts/HelveticaLTStdLight.eot');
+    src: url('../fonts/HelveticaLTStdLight.eot') format('embedded-opentype'),
+         url('../fonts/HelveticaLTStdLight.woff2') format('woff2'),
+         url('../fonts/HelveticaLTStdLight.woff') format('woff'),
+         url('../fonts/HelveticaLTStdLight.ttf') format('truetype'),
+         url('../fonts/HelveticaLTStdLight.svg#HelveticaLTStdLight') format('svg');
+}
+@font-face {
+    font-family: 'Adam';
+    src: url('../fonts/fonts/Adam.eot');
+    src: url('../fonts/fonts/Adam.eot') format('embedded-opentype'),
+         url('../fonts/fonts/Adam.woff2') format('woff2'),
+         url('../fonts/fonts/Adam.woff') format('woff'),
+         url('../fonts/fonts/Adam.ttf') format('truetype'),
+         url('../fonts/fonts/Adam.svg#Adam') format('svg');
+}
+
+
+
